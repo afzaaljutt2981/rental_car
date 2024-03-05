@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         theme: lightThemeData(context),
         darkTheme: darkThemeData(context),
         home: const Home(),
-      );
+      ); 
     });
   }
 }
